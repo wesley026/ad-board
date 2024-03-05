@@ -1,1 +1,1 @@
-# ad-board
+# admin-board
